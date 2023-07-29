@@ -1,0 +1,6 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.3/xlsx.full.min.js"
+                integrity="sha512-nF0eXhMjJQ0K/XxPsxj6sTF2ATa2q5BSl13y6RQfORuh2xUMkf3pdpqu050l9vFHnp/PlE0tyXD0sDzAEt5vQA=="
+                crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script lang="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js"></script>
+
+<script lang="javascript" src="https://cdn.jsdelivr.net/npm/sheetjs-style@0.15.8/xlsx.min.js"></script>
